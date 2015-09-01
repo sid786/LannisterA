@@ -1,0 +1,5 @@
+com/websystique/spring/configuration/ProductionDatabaseConfig.class
+com/websystique/spring/configuration/DatabaseConfig.class
+com/websystique/spring/configuration/DevDatabaseConfig.class
+com/websystique/spring/configuration/AppConfig.class
+com/websystique/spring/AppMain.class
